@@ -10,11 +10,8 @@ Welcome to my Data Science and Analysis Projects repository! 🚀 This collectio
 
 | Project Name                               | Description                                                               | Tools                          | Folder/File                                                     |
 |--------------------------------------------|---------------------------------------------------------------------------|--------------------------------|-----------------------------------------------------------------|
-| Insights into Cardiovascular Health EDA    | Analyzing a dataset for cardiovascular disease detection, exploring demographics and risk factors. | Python, Pandas, Matplotlib, Seaborn | [`Exploratory Data Analysis (EDA) for Heart Disease Prediction.ipynb/`](Insights%20into%20Cardiovascular%20Health%20EDA%20Project/Exploratory%20Data%20Analysis%20(EDA)%20for%20Heart%20Disease%20Prediction.ipynb) |
-| ...                                        | ...                                                                       | ...                            | ...                                                             |
-
-
-
+| Insights into Cardiovascular Health EDA    | Analyzing a dataset for cardiovascular disease detection, exploring demographics and risk factors. | Python, Pandas, Matplotlib, Seaborn | [`Exploratory Data Analysis (EDA) for Heart Disease Prediction.ipynb`](Insights%20into%20Cardiovascular%20Health%20EDA%20Project/Exploratory%20Data%20Analysis%20(EDA)%20for%20Heart%20Disease%20Prediction.ipynb) |
+| Analyzing Accreditation Data Across Various Library Types | Explore and analyze accreditation data to assess the accreditation status of different types of libraries. | R and RStudio | [`R Language/`](R%20Language/) |
 
 
 
